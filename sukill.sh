@@ -8,3 +8,5 @@ read password
     echo "kill -9 ""$""(ps aux | grep -e ""$""1 | awk '{ print ""$""2 }')" >> "$FILEPATH"sukill
 
 chmod +x "$FILEPATH"sukill
+
+%Run this file by using command "sudo bash ./sukill.sh
