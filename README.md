@@ -7,4 +7,3 @@
 5 This command ("sukill") will never ask for sudo, will use saved password of step 3 to kill "app_name"
 6 Tested on LinuxMint 18.3
 7 M. Shiraz Ahmad (shiraz.phy@gmail.com)
-git push --sukill
